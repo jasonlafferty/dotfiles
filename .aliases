@@ -1,0 +1,9 @@
+alias vi="nvim"
+alias vim="nvim"
+
+alias gs="git status"
+alias gl="git log"
+alias ga="git add"
+alias gc="git commit"
+alias gca="git commit --amend"
+alias gp="git pull"
